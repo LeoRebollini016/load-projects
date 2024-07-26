@@ -11,11 +11,13 @@ yarn-error.log
 # Environment variables
 .env
 
-
 # Distribution files
 /dist/
 /frontend/dist/
 /backend/dist/
+
+# Angular
+/frontend/.angular/
 
 # IDE files
 .vscode/
