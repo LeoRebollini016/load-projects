@@ -1,0 +1,21 @@
+{
+  "name": "projects-angular",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "start:frontend": "npm --workspace frontend start",
+    "start:backend": "npm --workspace backend start",
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\""
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

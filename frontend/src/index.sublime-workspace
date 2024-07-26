@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"file",
+				"filesToUpload"
+			],
+			[
+				"ng",
+				"ngIf"
+			],
+			[
+				"E",
+				"EditComponent"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"_rou",
+				"_router"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"bu",
+				"button-delete"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"ge",
+				"getProjects"
+			],
+			[
+				"fil",
+				"filesToUpload"
+			],
+			[
+				"Ht",
+				"HttpHeaders"
+			],
+			[
+				"no",
+				"not-allowed"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"Pro",
+				"ProjectService"
+			],
+			[
+				"co",
+				"common"
+			],
+			[
+				"Htt",
+				"HttpClient"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"miin",
+				"min-height"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"app",
+				"AppRoutingProviders"
+			],
+			[
+				"mul",
+				"multipartMiddleware"
+			],
+			[
+				"proj",
+				"projectUpdate"
+			],
+			[
+				"fin",
+				"findByIdAndUpdate"
+			],
+			[
+				"fi",
+				"fileExt"
+			],
+			[
+				"t",
+				"toString"
+			],
+			[
+				"findByIdA",
+				"findByIdAndUpdate"
+			],
+			[
+				"mu",
+				"multipartMiddleware"
+			],
+			[
+				"project",
+				"projectId"
+			],
+			[
+				"findByIdAnd",
+				"findByIdAndUpdate"
+			],
+			[
+				"Proje",
+				"Project"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"pr",
+				"projects"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"projec",
+				"projectStored"
+			],
+			[
+				"ro",
+				"router"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"usua",
+				"usuario_guardado"
+			],
+			[
+				"Co",
+				"ContactoUsuario"
+			],
+			[
+				"Cont",
+				"ContactoUsuario"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"h",
+				"HttpClientModule"
+			],
+			[
+				"z",
+				"ZapatillaService"
+			],
+			[
+				"Za",
+				"ZapatillaService"
+			],
+			[
+				"appR",
+				"AppRoutingProviders"
+			],
+			[
+				"light",
+				"lightpink"
+			],
+			[
+				"zapati",
+				"zapatilla"
+			],
+			[
+				"zapat",
+				"zapatillas"
+			],
+			[
+				"vid",
+				"VideojuegoComponent"
+			],
+			[
+				"set",
+				"setColor"
+			],
+			[
+				"su",
+				"sudnike"
+			],
+			[
+				"camis",
+				"camiseta"
+			],
+			[
+				"camise",
+				"CamisetaBase"
+			],
+			[
+				"c",
+				"cualquiera"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"nro",
+				"nrocasa"
+			],
+			[
+				"nr",
+				"nrooperacion"
+			],
+			[
+				"nroope",
+				"nrooperacion"
+			],
+			[
+				"n",
+				"nroOperacion"
+			],
+			[
+				"stri",
+				"stringify"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"col-",
+				"col-md-9"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Leo/Desktop/Universidad/Cursos/curso-sockets/server/index.js",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/curso-sockets/client/index.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/curso-sockets/client/main.js",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/curso-sockets/package.json",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/curso-sockets/package-lock.json",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/contact/contact.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/contact/contact.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/slider/slider.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/slider/slider.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/angular.json",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/assets/css/styles.css",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/app.module.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/detail/detail.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/create/create.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/app.routing.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/create/create.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/services/project.service.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/services/upload.service.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/models/project.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/services/global.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/about/about.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/components/about/about.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/proyecto-angular/src/app/app.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/Proyecto/backend/app.js",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/Proyecto/backend/index.js",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/Proyecto/backend/models/project.js",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/Proyecto/backend/package.json",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/Proyecto/backend/calculadora.js",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/externo/externo.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/externo/externo.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/services/peticiones.service.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/contacto/contacto.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/contacto/contacto.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/models/contacto.usuario.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/models/usuario.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/app.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/app.routing.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/pipes/calculadora.pipe.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/angular.json",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/tsconfig.json",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/tsconfig.app.json",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/app.module.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/externo/externo.component.spec.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/services/zapatilla.service.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/zapatillas/zapatillas.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/home/home.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/home/home.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/cursos/cursos.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/cursos/cursos.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/assets/styles.css",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/zapatillas/app.routing.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/zapatillas/zapatillas.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/index.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/models/zapatilla.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/videojuego/videojuego.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/models/configuracion.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/app.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/newangular/src/app/videojuego/videojuego.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/models/configuracion.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/models/zapatilla.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/zapatillas/zapatillas.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/app.component.css",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/app.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/app.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/videojuego/videojuego.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/videojuego/videojuego.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/zapatillas/zapatillas.component.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/cursos/cursos.component.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/app.module.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/angular/src/app/app.component.spec.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/TypeScript/js/camisetas.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/TypeScript/js/04-funciones.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/TypeScript/js/03-tipos-datos.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/TypeScript/index.html",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/TypeScript/js/02-hola-mundo.ts",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/TypeScript/js/json.js",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/js/carrito.js",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/js/index.js",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/index.html",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/carrito.html",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/css/carrito.css",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/css/index.css",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/js/historial.js",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/historial.html",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/js/favoritos.js",
+		"/C/Users/Leo/Desktop/Universidad/Cuarto año/Aplicaciones Moviles/Trabajo Integrador/Books/css/favoritos.css",
+		"/C/Users/Leo/Desktop/Universidad/Cursos/Martin/Vista.html"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
