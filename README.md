@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# Load Projects
 
-Breve descripción de tu proyecto y sus funcionalidades.
+Crear proyectos, almacenarlos en mongo y extraerlos para mostrarlos.
 
 ## Requisitos
 
