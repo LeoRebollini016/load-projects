@@ -9,9 +9,13 @@
   "scripts": {
     "start:frontend": "npm --workspace frontend start",
     "start:backend": "npm --workspace backend start",
-    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\""
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
+    "build:frontend": "npm --workspace frontend run build",
+    "build:backend": "npm --workspace backend run build",
+    "build": "npm run build:frontend && npm run build:backend",
+    "deploy": "npm run build: frontend && ngh --dir=frontend/dist/frontend"
   },
-  "author": "",
+  "author": "Leo Rebollini",
   "license": "ISC",
   "keywords": [],
   "description": "",
